@@ -18,4 +18,7 @@ Disini saya tidak mengunduh file bootsrap nya melainkan saya membuat layout deng
 
 Berikut Source code pembuatan header, nav, dan section hero di file index.html
 
-![TUGAS 6  1](https://user-images.githubusercontent.com/101880835/164960498-dc6f0557-7dd5-40a6-95cf-8be35668e002.png)
+![TUGAS 7 AWAL](https://user-images.githubusercontent.com/101880835/166136956-a400ebeb-6525-4d47-b43a-bcbcabb1a01c.png)
+![TUJUH KEDUA](https://user-images.githubusercontent.com/101880835/166136963-b32133ad-9ad5-4e70-b7a9-c04edfe8fdc5.png)
+
+ Dan jika dilihat hasilnya akan seperti berikut.
