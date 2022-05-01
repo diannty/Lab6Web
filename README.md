@@ -58,10 +58,8 @@ Berikut hasilnya.
 
 **Membuat Footer
 Untuk membuat footer saya menggunakan grid dalam pembuatannya. Source code nya seperti berikut.**
+![ending](https://user-images.githubusercontent.com/101880835/166138079-2a860ec8-6c4b-47a5-b994-81874a217ef9.png)
 
-<div class="row">
-  <div class="col bg-dark text-white" style="padding: 20px;">&copy; 2021 - Universitas Pelita Bangsa</div>
-</div> 
 
 Dan Hasilnya akan seperti berikut.
 
